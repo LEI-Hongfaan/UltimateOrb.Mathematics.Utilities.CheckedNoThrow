@@ -12,7 +12,8 @@
     <Copyright>Copyright © 2017 LEI Hongfaan. Distributed under the MIT License.</Copyright>
     <PackageLicenseUrl>https://github.com/LEI-Hongfaan/UltimateOrb.Mathematics.Utilities.CheckedNoThrow/blob/master/LICENSE</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/LEI-Hongfaan/UltimateOrb.Mathematics.Utilities.CheckedNoThrow</PackageProjectUrl>
-    <PackageReleaseNotes>This package does not include the test suite. See Project Site for more information.
+    <PackageReleaseNotes>Experimental.
+This package does not include the test suite. See Project Site for more information.
 </PackageReleaseNotes>
     <PackageTags>Checked NoThrow UltimateOrb</PackageTags>
     <Title>UltimateOrb.Mathematics.Utilities.CheckedNoThrow - UltimateOrb Libraries</Title>
