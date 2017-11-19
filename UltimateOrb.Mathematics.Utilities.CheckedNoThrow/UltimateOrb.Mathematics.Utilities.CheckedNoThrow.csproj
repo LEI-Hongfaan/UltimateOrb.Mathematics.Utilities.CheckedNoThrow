@@ -15,6 +15,7 @@
     <PackageReleaseNotes>This package does not include the test suite. See Project Site for more information.
 </PackageReleaseNotes>
     <PackageTags>Checked NoThrow UltimateOrb</PackageTags>
+    <Title>UltimateOrb.Mathematics.Utilities.CheckedNoThrow - UltimateOrb Libraries</Title>
     <AssemblyVersion>1</AssemblyVersion>
     <FileVersion>1</FileVersion>
     <Version>1.0.1</Version>
